@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mo6tyav
-- 👀 I’m interested in software development and self growth
+### Hi, I’m Moses Tyav ([@mo6tyav](https://github.com/mo6tyav)) and a `</> enthusiast`.
 
-- 📫 You can email me via [📧](moses.tyav@mclarencollege.in)
 
 <!---
 mo6tyav/mo6tyav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
